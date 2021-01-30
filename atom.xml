@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BETA BLOG</title>
   
-  <subtitle>贝塔BLOG</subtitle>
+  <subtitle>贝塔-Blog</subtitle>
   <link href="http://iotctech.github.io/atom.xml" rel="self"/>
   
   <link href="http://iotctech.github.io/"/>
-  <updated>2021-01-30T08:52:47.109Z</updated>
+  <updated>2021-01-30T09:06:23.756Z</updated>
   <id>http://iotctech.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://iotctech.github.io/2021/01/30/hello-world/"/>
     <id>http://iotctech.github.io/2021/01/30/hello-world/</id>
-    <published>2021-01-30T08:52:47.109Z</published>
-    <updated>2021-01-30T08:52:47.109Z</updated>
+    <published>2021-01-30T09:06:23.756Z</published>
+    <updated>2021-01-30T09:06:23.756Z</updated>
     
     
       
