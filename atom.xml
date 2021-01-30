@@ -3,11 +3,11 @@
   <title>BETA BLOG</title>
   
   <subtitle>且饮足觞，莫问归期</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://iotctech.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-01-30T08:14:59.817Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://iotctech.github.io/"/>
+  <updated>2021-01-30T08:19:56.601Z</updated>
+  <id>http://iotctech.github.io/</id>
   
   <author>
     <name>贝塔</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/01/30/hello-world/"/>
-    <id>http://example.com/2021/01/30/hello-world/</id>
-    <published>2021-01-30T08:14:59.817Z</published>
-    <updated>2021-01-30T08:14:59.817Z</updated>
+    <link href="http://iotctech.github.io/2021/01/30/hello-world/"/>
+    <id>http://iotctech.github.io/2021/01/30/hello-world/</id>
+    <published>2021-01-30T08:19:56.601Z</published>
+    <updated>2021-01-30T08:19:56.601Z</updated>
     
     
       
