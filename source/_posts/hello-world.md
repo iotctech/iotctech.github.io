@@ -38,3 +38,7 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ![picture 2](https://iotc.coding.net/p/image/d/image/git/raw/master/blog/287f9a7067511ac746fcecd6128da500ad9abbcd379298fa8f5d0e7712c7d539.gif)  
+
+![picture 3](https://iotc.coding.net/p/image/d/image/git/raw/master/blog/tara-1612026105338.jpg)  
+
+![picture 4](https://iotc.coding.net/p/image/d/image/git/raw/master/blog/-1612339824820.png)  
