@@ -6,7 +6,7 @@
   <link href="http://iotctech.github.io/atom.xml" rel="self"/>
   
   <link href="http://iotctech.github.io/"/>
-  <updated>2021-02-07T09:58:36.157Z</updated>
+  <updated>2021-02-09T06:37:15.644Z</updated>
   <id>http://iotctech.github.io/</id>
   
   <author>
@@ -17,11 +17,90 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>百面深度学习三：其他</title>
+    <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/"/>
+    <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/</id>
+    <published>2021-02-09T14:31:12.000Z</published>
+    <updated>2021-02-09T06:37:15.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1、能解释一下xgboost的原理和实现过程吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、解释 L0  L1 </summary>
+        
+      
+    
+    
+    
+    <category term="算法面试" scheme="http://iotctech.github.io/categories/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="深度学习面试" scheme="http://iotctech.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百面深度学习二：商汤</title>
+    <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-er-shang-tang/"/>
+    <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-er-shang-tang/</id>
+    <published>2021-02-09T14:22:09.000Z</published>
+    <updated>2021-02-09T06:37:15.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1、看到你做过目标检测的项目，能说明一下你在项目中主要做了什么吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、能解释一下梯度消失或者梯度爆炸的原因，以及如何解决吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、请问你在Faster</summary>
+        
+      
+    
+    
+    
+    <category term="算法面试" scheme="http://iotctech.github.io/categories/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="深度学习面试" scheme="http://iotctech.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百面深度学习一：百度</title>
+    <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-yi-bai-du/"/>
+    <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-yi-bai-du/</id>
+    <published>2021-02-09T13:47:49.000Z</published>
+    <updated>2021-02-09T06:37:15.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1、看到你项目写到使用过Faster rcnn，请问Faster rcnn的优势是什么，为什么在这个项目使用Faster rcnn？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、能介绍一下 Faster rcnn</summary>
+        
+      
+    
+    
+    
+    <category term="算法面试" scheme="http://iotctech.github.io/categories/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="深度学习面试" scheme="http://iotctech.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>自动驾驶环境感知概述</title>
     <link href="http://iotctech.github.io/2021/02/05/zi-dong-jia-shi-huan-jing-gan-zhi-gai-shu/"/>
     <id>http://iotctech.github.io/2021/02/05/zi-dong-jia-shi-huan-jing-gan-zhi-gai-shu/</id>
     <published>2021-02-05T15:45:51.000Z</published>
-    <updated>2021-02-07T09:58:36.157Z</updated>
+    <updated>2021-02-09T06:37:15.644Z</updated>
     
     
       
