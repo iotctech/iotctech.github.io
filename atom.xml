@@ -6,7 +6,7 @@
   <link href="http://iotctech.github.io/atom.xml" rel="self"/>
   
   <link href="http://iotctech.github.io/"/>
-  <updated>2021-02-09T06:37:15.644Z</updated>
+  <updated>2021-02-19T14:44:37.677Z</updated>
   <id>http://iotctech.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>卷积基础知识</title>
+    <link href="http://iotctech.github.io/2021/02/19/juan-ji-ji-chu-zhi-shi/"/>
+    <id>http://iotctech.github.io/2021/02/19/juan-ji-ji-chu-zhi-shi/</id>
+    <published>2021-02-19T21:49:15.000Z</published>
+    <updated>2021-02-19T14:44:37.677Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1、卷积神经网络&quot;&gt;&lt;a href=&quot;#1、卷积神经网络&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法面试" scheme="http://iotctech.github.io/categories/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="深度学习面试" scheme="http://iotctech.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>百面深度学习三：其他</title>
     <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/"/>
     <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/</id>
     <published>2021-02-09T14:31:12.000Z</published>
-    <updated>2021-02-09T06:37:15.644Z</updated>
+    <updated>2021-02-19T14:44:37.677Z</updated>
     
     
       
@@ -47,7 +72,7 @@
     <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-er-shang-tang/"/>
     <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-er-shang-tang/</id>
     <published>2021-02-09T14:22:09.000Z</published>
-    <updated>2021-02-09T06:37:15.644Z</updated>
+    <updated>2021-02-19T14:44:37.677Z</updated>
     
     
       
@@ -74,7 +99,7 @@
     <link href="http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-yi-bai-du/"/>
     <id>http://iotctech.github.io/2021/02/09/bai-mian-shen-du-xue-xi-yi-bai-du/</id>
     <published>2021-02-09T13:47:49.000Z</published>
-    <updated>2021-02-09T06:37:15.644Z</updated>
+    <updated>2021-02-19T14:44:37.677Z</updated>
     
     
       
@@ -100,7 +125,7 @@
     <link href="http://iotctech.github.io/2021/02/05/zi-dong-jia-shi-huan-jing-gan-zhi-gai-shu/"/>
     <id>http://iotctech.github.io/2021/02/05/zi-dong-jia-shi-huan-jing-gan-zhi-gai-shu/</id>
     <published>2021-02-05T15:45:51.000Z</published>
-    <updated>2021-02-09T06:37:15.644Z</updated>
+    <updated>2021-02-19T14:44:37.677Z</updated>
     
     
       

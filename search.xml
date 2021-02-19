@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>卷积基础知识</title>
+      <link href="2021/02/19/juan-ji-ji-chu-zhi-shi/"/>
+      <url>2021/02/19/juan-ji-ji-chu-zhi-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1、卷积神经网络"><a href="#1、卷积神经网络" class="headerlink" title="1、卷积神经网络"></a>1、卷积神经网络</h1><p>卷积神经网络主要是由卷积层构成的，它具有<strong>局部连接</strong>和<strong>权值共享</strong>等特性。</p><p>具体来说，卷积层是通过特定数目的<strong>卷积核（又称滤波器）</strong>对输入的<strong>多通道（channel）特征图</strong>进行扫描和运算，从而<strong>得到多个拥有更高层语义信息的输出特征图（通道数目等于卷积核个数）</strong></p><p><strong>卷积层的特性：</strong></p><ul><li><strong>局部连接：</strong>输出层上的每个节点都只与输入层的部分节点连接；</li><li><strong>权值共享：</strong>卷积核的滑动窗口机制，使得输出层上不同位置的节点与输入层的连接权制都是一样的（即卷积核参数）</li><li><strong>输入/输出数据的结构化：</strong>局部连接和权值共享，使得卷积操作能够在输出数据中大致保持输入数据的结构信息。</li></ul><p>卷积的局部连接、权值共享等特性，使其具有远小于全连接层的参数量和计算复杂度，并且与生物视觉传导机制有一定的相似性，因此被广泛用于处理图像、视频等高维结构化数据。</p><h1 id="2、计算卷积神经网络中各层的感受野大小"><a href="#2、计算卷积神经网络中各层的感受野大小" class="headerlink" title="2、计算卷积神经网络中各层的感受野大小"></a>2、计算卷积神经网络中各层的感受野大小</h1><p>感受野的定义是，对于某层输出特征图上的某个点，在卷积神经网络的原始输入数据上能影响到这个点的取值的区域。</p><p>计算公式：<br>以二维卷积神经网络为例，如果网络的原始输入特征图尺寸为$L_w * L_h$，记网络第$i$层节点的感受野大小为$R_e^{(i)}$，其中$e\in{w,h}$分别代表宽和高两个方向，则</p><p>$$<br>R_e^{(i)} = min\Big{ R_e^{(i-1)} + \big( k_e^{(i)} - 1 \big)\prod_{j=0}^{(i-1)}s_e^{(j)}, L_e \Big}<br>$$</p><ul><li>$k_e^{(i)}$ : 第$i$层卷积核/池化核的尺寸</li><li>$s_e^{(j)}$ : 第$j$层的步长</li></ul><p>特别地，对于第0层，即原始输入层，有</p><p>$$ \left{<br>\begin{aligned}<br>R_e^{(0)} = 1 \<br>s_e^{(0)} = 1<br>\end{aligned}<br>\right.<br>$$</p><p>若第$i$层为激活层，批归一化层等，则其步长为1，感受野大小为：<br>$$<br>R_e^{(i)} = R_e^{(i-1)}<br>$$</p><p>若第$i$层为全连接层，则其感受野为整个输入数据全域，即：<br>$$<br>R_e^{(i)} = L_e<br>$$</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法面试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 深度学习面试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>百面深度学习三：其他</title>
       <link href="2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/"/>
       <url>2021/02/09/bai-mian-shen-du-xue-xi-san-qi-ta/</url>
